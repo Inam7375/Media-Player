@@ -1,0 +1,6 @@
+Instructions:
+1. Select the catagory name in the dropb down list for deleting the catagory.
+2. Select both catagory name and song you want to insert in the specified catagory.
+3. Enter the name of new catagory to be added.
+4. Songs from catagories will run as long as their path is same as when they were added in the catagory, if the path
+   is changed, again add the song.
